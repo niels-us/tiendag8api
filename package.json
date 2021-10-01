@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index"
+    "dev": "nodemon index",
+    "build": "tiendag8apiniels build"
+
   },
   "keywords": [],
   "author": "",
